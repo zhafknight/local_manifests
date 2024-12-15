@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="zhafknight/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-19.0" />
+  <project name="zhafknight/android_device_samsung_n7000" path="device/samsung/n7000" remote="github" revision="lineage-19.0" />
+  <project name="zhafknight/android_device_samsung_galaxys2-common" path="device/samsung/zhafknight" remote="github" revision="lineage-19.0" />
+  <project name="zhafknight/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="lineage-19.0" />
+  <project name="zhafknight/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="lineage-19.0" />
+</manifest>
